@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ISkillsapp</string>
+    <string-array name="state">
+        <item>Select State</item>
+        <item>AR</item>
+        <item>AZ</item>
+        <item>LI</item>
+        <item>GA</item>
+        <item>MI</item>
+        <item>OH</item>
+        <item>VA</item>
+    </string-array>
+    <string-array name="country">
+        <item>Select Country</item>
+        <item>United States</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Landon</item>
+        <item>China</item>
+        <item>Irland</item>
+        <item>Australia</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+</resources>
